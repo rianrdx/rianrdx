@@ -9,7 +9,7 @@
    <a href="https://wa.me/5584981119447">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="[https://instagram.com/rian.rd0](https://www.instagram.com/rian.rd0/)">
+  <a href="https://www.instagram.com/rian.rd0/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://vercel.com/rianrdx">
